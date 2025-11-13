@@ -1,0 +1,8 @@
+Endpoints
+ POST: /token
+ GET: /help
+ GET: /version
+ GET: /all?token={token}
+ GET: /specific?token={token}
+ GET: /multiple?token={token}
+ GET: /usage?token={token}

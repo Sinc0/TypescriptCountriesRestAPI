@@ -1,0 +1,23 @@
+{
+    "name": "app",
+    "version": "1.0.1",
+    "description": "This is a student project, made to learn about rest APIs.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "1.19.0",
+        "express": "4.21.2",
+        "mongoose": "5.12.0",
+        "uuid": "8.2.0"
+    },
+    "devDependencies": {
+        "vite": "7.1.10",
+        "vite-plugin-node": "7.0.0"
+    }
+}
