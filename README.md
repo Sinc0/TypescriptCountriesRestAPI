@@ -2,7 +2,6 @@
 - Name: Countries REST API
 - Description: Fetch data about countries
 - LoC: ~310
-###
 - Features:
 - \--- Fetch All Countries
 - \--- Fetch Specific Country
@@ -37,3 +36,4 @@
 - [Token - Create](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/functions.ts#L192-L207)
 - [Token - Validate](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/functions.ts#L209-L249)
 - [Token - Usage](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/functions.ts#L251-L309)
+- [Token - Calculate Expiration](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/app.ts#L43-L46)
