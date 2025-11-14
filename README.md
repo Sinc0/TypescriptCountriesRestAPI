@@ -17,8 +17,8 @@
 
 ### Code
 - [File - Main](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/app.ts)
-- [File - Functions](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/functions.ts)
-- [File - Schemas](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/schemas.ts)
+- [File - Functions](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts)
+- [File - Schemas](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/schemas.ts)
 ###
 - [General - Variables](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/app.ts#L8-L14)
 - [General - Server Routes](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/app.ts#L17-L26)
@@ -29,7 +29,7 @@
 - [Message - Error](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L21-L28)
 - [Message - Version](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L12-L19)
 ###
-- [Fetch - All Countries](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L70-L85)
+- [Fetch - All Countries](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L70-L86)
 - [Fetch - Multiple Countries](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L133-L190)
 - [Fetch - Specific Country](https://github.com/Sinc0/TypescriptCountriesRestAPI/blob/master/modules/functions.ts#L88-L131)
 ###
