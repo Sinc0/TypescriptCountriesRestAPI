@@ -2,7 +2,6 @@
 - Name: Countries REST API
 - Description: Fetch data about countries
 - LoC: ~310
-- [Logo]()
 ###
 - Features:
 - \--- Fetch All Countries
